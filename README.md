@@ -1,6 +1,6 @@
 # Animation
 **Animation**
-![first project view](https://github.com/user-attachments/assets/34ea6c0c-8fe7-41ed-97c8-47d00cea1fb6)
+![trick3](https://github.com/user-attachments/assets/cda7c18a-569d-4947-a118-129850b39d35)
 
 - [Demo Project](https://code-banu.github.io/Animation/)
 
